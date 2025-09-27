@@ -2,3 +2,4 @@
 2 updated
 3 inserted
 4. deleted
+5. test2 updated
